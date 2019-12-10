@@ -7,7 +7,7 @@ This website was made by me (steve quindo) to tell YOU that I am the best, thank
 Steve Quindo is the best.
 
 ```markdown
-Syntax highlighted code block
+Steve is best in highlighted code block
 
 # Steve is the best
 ## I'm the best
