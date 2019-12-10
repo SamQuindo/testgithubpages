@@ -1,27 +1,25 @@
 ## Welcome to my website, just a reminder that i'm the best!
 
-You can use the [editor on GitHub](https://github.com/SamQuindo/testgithubpages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This website was made by me (steve quindo) to tell YOU that I am the best, thanks for stopping by.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Below are more reminders telling YOU that i'm the best.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Steve Quindo is the best.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Steve is the best
+## I'm the best
+### You are the best
 
-- Bulleted
-- List
+- Steve is the best (bulleted)
+- Steve is the best (list)
 
-1. Numbered
-2. List
+1. Steve is the best (Numbered)
+2. Steve is the best (List)
 
-**Bold** and _Italic_ and `Code` text
+**Best but in bold** and _Best in italic_ and `Steve is the best in code` text
 
 [Link](url) and ![Image](src)
 ```
@@ -32,6 +30,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SamQuindo/testgithubpages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Support or Contact the best person in the world?
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to learn how to be the best? Message me on faebook [documentation](https://www.facebook.com/STEVEVEVEVEVE/) or [contact support](https://www.facebook.com/STEVEVEVEVEVE) and we’ll help you sort it out.
